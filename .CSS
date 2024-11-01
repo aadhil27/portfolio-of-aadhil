@@ -1,0 +1,51 @@
+# {
+    margin:0;
+    padding:0;
+}
+
+img{
+    width:150px;
+    height:150px;
+    margin-left: 25px;
+}
+
+
+
+..one,ul{
+    color: black;
+    padding: 15px;
+}
+
+li,ul{
+    display: inline;
+   
+
+}
+
+ul{
+    margin-left: 55%;
+    padding-bottom: 20%;
+}
+
+li{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+li:hover{
+    color: rgb(15, 30, 169)    ;
+}
+
+.info{
+    color: rgb(25, 23, 23);
+    margin-left: 7%;
+   margin-right: 6%;
+}
+
+.info h4{
+    color: rgb(54, 25, 127);
+    
+}
+.info span{
+    color:  rgb(16, 13, 13);
+}
